@@ -54,7 +54,7 @@ View AST parsing output, similarity heatmaps, and PCA plots
 
 ## Files in this Repository
 
-Ashreen Fathima Milestone 1.ipynb → Colab notebook containing full implementation
+Raman Singh Milestone 1.ipynb → Colab notebook containing full implementation
 
 README.md → Project description, methodology, and observations
 
