@@ -1,7 +1,7 @@
 # CodeGenie 🤖
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarveshkulkarni2023/Infosys_Springboard_V.0/main/screenshots/banner.gif?v=2" width="800"/>
+  <img src="https://raw.githubusercontent.com/Raman-engi/Infosys_Springboard/main/screenshots/banner.gif?v=2" width="800"/>
 </p>
 
 <p align="center">
@@ -322,7 +322,7 @@ CodeGenie/
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/sarveshkulkarni2023/Infosys_Springboard_V.0
+git clone https://github.com/Raman-engi/Infosys_Springboard
 cd Infosys_Springboard_V.0
 
 # 2. Install Dependencies
@@ -514,7 +514,7 @@ model_config = {
 ## 🤝 Contributing:- 
 
 ### 🐛 Report a Bug
-1. Check existing [issues](https://github.com/sarveshkulkarni2023/Infosys_Springboard_V.0/issues)
+1. Check existing [issues](https://github.com/Raman-engi/Infosys_Springboard/issues)
 2. Create new issue with detailed description
 3. Include screenshots if possible
 
